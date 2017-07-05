@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FragmentToFragmentCommunication</string>
+
+    <string-array name="titulos">
+        <item>Gandalf</item>
+        <item>Aragorn</item>
+        <item>Legolas</item>
+        <item>Gimli</item>
+        <item>Arwen</item>
+    </string-array>
+    <string-array name="descrip">
+        <item>Gandalf was...In Listing 8 we have the method signature answers contained within the interface. Its implementation requires a FragmentManager object type is defined and which receives a return call from getFragmentManager() method, which is responsible for managing the Fragments.
+        </item>
+        <item>Aragorn II, sono f Arathorn was... </item>
+        <item>Legolas was the son of Thranduil, King of the Woodland Realm of Northern Mirkwood, who appears as "the Elvenking" in The Hobbit. Thranduil ruled over the Silvan Elves or "Wood-elves" of Mirkwood.</item>
+        <item>Gimli was a member of Durins Folk who volunteered to accompany Frodo Baggins as a member of the Fellowship of the Ring on the quest to destroy the One Ring. He was an honourable, wise, and stalwart warrior.</item>
+        <item>Arwen Undómiel was a fictitious character... </item>
+    </string-array>
+
+</resources>
